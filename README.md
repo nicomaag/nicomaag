@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:42b883,100:34d058&height=190&section=header&text=Vue%20Enthusiast&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:42b883,100:34d058&height=190&section=header&text=Vue%20Enthusiast&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=60)
 
 # `<Nico.code />` 
 ### Turning Coffee into Automation since 1997 ☕️
@@ -66,7 +66,6 @@ const handleDeploy = (projectId) => {
 | Project | Status | Tech Stack |
 |---------|--------|------------|
 | [🎨 OutfitPicker](https://github.com/nicomaag/OutfitPicker) | `yarn dev` | `Vue.js` `Node.js` |
-| [🏃‍♂️ nicoma-therapy](https://github.com/nicomaag/nicoma-therapy) | `npm start` | `JavaScript` `Vue.js` |
 | [🤖 rexx](https://github.com/nicomaag/rexx) | `docker run` | `Node.js` `Docker` |
 | [📦 nicoma-node](https://github.com/nicomaag/nicoma-node) | `private` | `Node.js` |
 | [🍎 nicoma-macos](https://github.com/nicomaag/nicoma-macos) | `private` | `macOS` |
