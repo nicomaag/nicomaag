@@ -8,6 +8,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-nicoma.ag-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://nicoma.ag)
 [![GitHub](https://img.shields.io/badge/Follow-nicomaag-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicomaag)
 
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+
 </div>
 
 ## 🚀 Vue Component Showcase
@@ -117,6 +119,32 @@ const handleDeploy = (projectId) => {
 </div>
 
 ---
+
+## <🎲 Fun Facts />
+
+<table>
+<tr>
+<td width="50%">
+
+```javascript
+const nico = {
+  favoriteEmoji: "🚀",
+  dailyMood: "Let's automate it!",
+  superPower: "Turning coffee into code",
+  hobbies: [
+    "Creating helpful tools",
+    "Learning new tech",
+    "Solving puzzles"
+  ]
+}
+```
+
+</td>
+<td width="50%">
+<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100%">
+</td>
+</tr>
+</table>
 
 <div align="center">
 
